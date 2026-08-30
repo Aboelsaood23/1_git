@@ -1,5 +1,1 @@
--- My second SQL file
-
-SELECT 2 + 2 AS result;
-
-SELECT 'Git training' AS topic;
+SELECT 20 - 5 AS subtraction;
