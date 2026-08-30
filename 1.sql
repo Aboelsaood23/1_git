@@ -1,1 +1,1 @@
-SELECT 'First GitHub push practice' AS message;
+SELECT 'Local work' AS source;
