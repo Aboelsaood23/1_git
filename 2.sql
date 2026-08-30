@@ -1,1 +1,1 @@
-SELECT 'Changed directly on GitHub' AS source;
+SELECT 'someone changes 2.sql on GitHub' AS source;
