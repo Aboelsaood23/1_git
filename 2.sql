@@ -1,1 +1,1 @@
-SELECT 20 - 5 AS subtraction;
+SELECT 'Working on second feature' AS feature;
