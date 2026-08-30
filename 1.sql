@@ -1,1 +1,1 @@
-SELECT 100 AS conflict_value;
+SELECT 'First GitHub push practice' AS message;
