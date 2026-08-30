@@ -1,1 +1,1 @@
-SELECT 'Feature branch change' AS branch_test;
+SELECT 500 / 5 AS division_exampl;
