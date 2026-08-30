@@ -1,1 +1,1 @@
-SELECT 'Main branch also changed' AS main_change;
+SELECT 'Changed directly on GitHub' AS source;
