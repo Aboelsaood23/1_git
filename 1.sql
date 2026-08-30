@@ -1,1 +1,1 @@
-SELECT 10 / 2 AS division;
+SELECT 'Feature branch change' AS branch_test;
