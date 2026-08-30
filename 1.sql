@@ -1,1 +1,1 @@
-SELECT 500 / 5 AS division_exampl;
+SELECT 100 AS conflict_value;
