@@ -1,1 +1,1 @@
-SELECT 'Local work' AS source;
+SELECT 'Feature branch on GitHub' AS branch_example;
