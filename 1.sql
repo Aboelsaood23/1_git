@@ -1,1 +1,1 @@
-SELECT 999 AS conflict_value;
+SELECT 100 AS conflict_value;
